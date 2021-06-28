@@ -1,0 +1,439 @@
+{
+  "aristas": [
+    {
+      "peso": 2,
+      "origen": {
+        "nombre": "baden",
+        "indice": 0,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "baviera",
+        "indice": 1,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 8,
+      "origen": {
+        "nombre": "baden",
+        "indice": 0,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "palatinado",
+        "indice": 10,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 6,
+      "origen": {
+        "nombre": "baden",
+        "indice": 0,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "hesse",
+        "indice": 6,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 9,
+      "origen": {
+        "nombre": "baviera",
+        "indice": 1,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "hesse",
+        "indice": 6,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 10,
+      "origen": {
+        "nombre": "baviera",
+        "indice": 1,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "turingia",
+        "indice": 15,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 3,
+      "origen": {
+        "nombre": "baviera",
+        "indice": 1,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "sajonia",
+        "indice": 12,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 1,
+      "origen": {
+        "nombre": "berlin",
+        "indice": 2,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "brandeburgo",
+        "indice": 3,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 6,
+      "origen": {
+        "nombre": "brandeburgo",
+        "indice": 3,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "mecklemburgo",
+        "indice": 7,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 12,
+      "origen": {
+        "nombre": "brandeburgo",
+        "indice": 3,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "baja Sajonia",
+        "indice": 8,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 3,
+      "origen": {
+        "nombre": "brandeburgo",
+        "indice": 3,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "sajonia-Anhalt",
+        "indice": 13,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 5,
+      "origen": {
+        "nombre": "brandeburgo",
+        "indice": 3,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "sajonia",
+        "indice": 12,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 4,
+      "origen": {
+        "nombre": "bremen",
+        "indice": 4,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "baja Sajonia",
+        "indice": 8,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 13,
+      "origen": {
+        "nombre": "hamburgo",
+        "indice": 5,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "baja Sajonia",
+        "indice": 8,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 8,
+      "origen": {
+        "nombre": "hamburgo",
+        "indice": 5,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "holstein",
+        "indice": 14,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 5,
+      "origen": {
+        "nombre": "hesse",
+        "indice": 6,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "baja Sajonia",
+        "indice": 8,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 4,
+      "origen": {
+        "nombre": "hesse",
+        "indice": 6,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "westfalia",
+        "indice": 9,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 13,
+      "origen": {
+        "nombre": "hesse",
+        "indice": 6,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "palatinado",
+        "indice": 10,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 8,
+      "origen": {
+        "nombre": "hesse",
+        "indice": 6,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "turingia",
+        "indice": 15,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 5,
+      "origen": {
+        "nombre": "mecklemburgo",
+        "indice": 7,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "holstein",
+        "indice": 14,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 4,
+      "origen": {
+        "nombre": "mecklemburgo",
+        "indice": 7,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "baja Sajonia",
+        "indice": 8,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 13,
+      "origen": {
+        "nombre": "baja Sajonia",
+        "indice": 8,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "holstein",
+        "indice": 14,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 8,
+      "origen": {
+        "nombre": "baja Sajonia",
+        "indice": 8,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "sajonia-Anhalt",
+        "indice": 13,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 13,
+      "origen": {
+        "nombre": "baja Sajonia",
+        "indice": 8,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "turingia",
+        "indice": 15,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 8,
+      "origen": {
+        "nombre": "baja Sajonia",
+        "indice": 8,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "westfalia",
+        "indice": 9,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 13,
+      "origen": {
+        "nombre": "westfalia",
+        "indice": 9,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "palatinado",
+        "indice": 10,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 8,
+      "origen": {
+        "nombre": "palatinado",
+        "indice": 10,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "sarre",
+        "indice": 11,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 13,
+      "origen": {
+        "nombre": "sajonia",
+        "indice": 12,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "sajonia-Anhalt",
+        "indice": 13,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 8,
+      "origen": {
+        "nombre": "sajonia",
+        "indice": 12,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "turingia",
+        "indice": 15,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 13,
+      "origen": {
+        "nombre": "sajonia-Anhalt",
+        "indice": 13,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "turingia",
+        "indice": 15,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    }
+  ]
+}

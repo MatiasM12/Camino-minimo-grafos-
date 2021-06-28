@@ -1,0 +1,619 @@
+{
+  "aristas": [
+    {
+      "peso": 1,
+      "origen": {
+        "nombre": "buenos aires",
+        "indice": 0,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "entre rios",
+        "indice": 6,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 10,
+      "origen": {
+        "nombre": "buenos aires",
+        "indice": 0,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "santa fe",
+        "indice": 19,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 10,
+      "origen": {
+        "nombre": "buenos aires",
+        "indice": 0,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "cordoba",
+        "indice": 4,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 0,
+      "origen": {
+        "nombre": "buenos aires",
+        "indice": 0,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "rio negro",
+        "indice": 14,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 7,
+      "origen": {
+        "nombre": "catamarca",
+        "indice": 1,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "salta",
+        "indice": 15,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 3,
+      "origen": {
+        "nombre": "catamarca",
+        "indice": 1,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "tucuman",
+        "indice": 22,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 4,
+      "origen": {
+        "nombre": "catamarca",
+        "indice": 1,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "santiago del estero",
+        "indice": 20,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 10,
+      "origen": {
+        "nombre": "catamarca",
+        "indice": 1,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "cordoba",
+        "indice": 4,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 1,
+      "origen": {
+        "nombre": "catamarca",
+        "indice": 1,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "la rioja",
+        "indice": 10,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 10,
+      "origen": {
+        "nombre": "chaco",
+        "indice": 2,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "formosa",
+        "indice": 7,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 10,
+      "origen": {
+        "nombre": "chaco",
+        "indice": 2,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "salta",
+        "indice": 15,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 0,
+      "origen": {
+        "nombre": "chaco",
+        "indice": 2,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "santiago del estero",
+        "indice": 20,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 7,
+      "origen": {
+        "nombre": "chaco",
+        "indice": 2,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "santa fe",
+        "indice": 19,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 3,
+      "origen": {
+        "nombre": "chaco",
+        "indice": 2,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "salta",
+        "indice": 15,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 4,
+      "origen": {
+        "nombre": "chubut",
+        "indice": 3,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "rio negro",
+        "indice": 14,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 10,
+      "origen": {
+        "nombre": "chubut",
+        "indice": 3,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "santa cruz",
+        "indice": 18,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 1,
+      "origen": {
+        "nombre": "cordoba",
+        "indice": 4,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "san luis",
+        "indice": 17,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 10,
+      "origen": {
+        "nombre": "cordoba",
+        "indice": 4,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "santa fe",
+        "indice": 19,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 10,
+      "origen": {
+        "nombre": "cordoba",
+        "indice": 4,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "santiago del estero",
+        "indice": 20,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 0,
+      "origen": {
+        "nombre": "cordoba",
+        "indice": 4,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "la rioja",
+        "indice": 10,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 7,
+      "origen": {
+        "nombre": "cordoba",
+        "indice": 4,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "la pampa",
+        "indice": 9,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 3,
+      "origen": {
+        "nombre": "corrientes",
+        "indice": 5,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "entre rios",
+        "indice": 6,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 4,
+      "origen": {
+        "nombre": "corrientes",
+        "indice": 5,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "santa fe",
+        "indice": 19,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 10,
+      "origen": {
+        "nombre": "corrientes",
+        "indice": 5,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "misiones",
+        "indice": 12,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 1,
+      "origen": {
+        "nombre": "entre rios",
+        "indice": 6,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "santa fe",
+        "indice": 19,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 10,
+      "origen": {
+        "nombre": "formosa",
+        "indice": 7,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "salta",
+        "indice": 15,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 10,
+      "origen": {
+        "nombre": "jujuy",
+        "indice": 8,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "salta",
+        "indice": 15,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 0,
+      "origen": {
+        "nombre": "la pampa",
+        "indice": 9,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "san luis",
+        "indice": 17,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 7,
+      "origen": {
+        "nombre": "la pampa",
+        "indice": 9,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "mendoza",
+        "indice": 11,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 3,
+      "origen": {
+        "nombre": "la pampa",
+        "indice": 9,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "neuquen",
+        "indice": 13,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 4,
+      "origen": {
+        "nombre": "la pampa",
+        "indice": 9,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "rio negro",
+        "indice": 14,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 10,
+      "origen": {
+        "nombre": "la rioja",
+        "indice": 10,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "san juan",
+        "indice": 16,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 1,
+      "origen": {
+        "nombre": "la rioja",
+        "indice": 10,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "san luis",
+        "indice": 17,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 10,
+      "origen": {
+        "nombre": "mendoza",
+        "indice": 11,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "neuquen",
+        "indice": 13,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 10,
+      "origen": {
+        "nombre": "mendoza",
+        "indice": 11,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "rio negro",
+        "indice": 14,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 0,
+      "origen": {
+        "nombre": "mendoza",
+        "indice": 11,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "san luis",
+        "indice": 17,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 7,
+      "origen": {
+        "nombre": "neuquen",
+        "indice": 13,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "rio negro",
+        "indice": 14,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 3,
+      "origen": {
+        "nombre": "salta",
+        "indice": 15,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "san juan",
+        "indice": 16,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 4,
+      "origen": {
+        "nombre": "santa cruz",
+        "indice": 18,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "tierra del fuego ",
+        "indice": 21,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 10,
+      "origen": {
+        "nombre": "santa fe",
+        "indice": 19,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "santiago del estero",
+        "indice": 20,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    },
+    {
+      "peso": 1,
+      "origen": {
+        "nombre": "tucuman",
+        "indice": 22,
+        "vecinos": [],
+        "cordenada": {}
+      },
+      "destino": {
+        "nombre": "salta",
+        "indice": 15,
+        "vecinos": [],
+        "cordenada": {}
+      }
+    }
+  ]
+}
