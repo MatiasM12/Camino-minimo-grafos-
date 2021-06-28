@@ -1,0 +1,21 @@
+El objetivo del trabajo practico es implementar una aplicacion para resolver el problema de
+diseño de regiones de un pa´ıs, similar al planteado por R. 
+. Tenemos un grafo G que representa las provincias del paıs, con un vertice por provincia y una arista por cada
+par de provincias limıtrofes . Cada arista tiene un peso que representa la
+similaridad entre las dos provincias (el calculo de este valor no es parte del trabajo pr´actico,
+sino que es un dato proporcionado por el usuario).
+
+Teniendo definido este grafo con pesos, si buscamos separar el pa´ıs en k regiones conexas, el
+m´etodo consiste en los siguientes pasos:
+1. Construir un ´arbol generador m´ınimo T de G.
+2. Eliminar las k − 1 aristas de mayor peso del ´arbol T.
+3. Las k componentes conexas del grafo resultante son las regiones buscadas.
+La aplicacion implementada debe contar con una interfaz para cargar y visualizar los vertices
+y aristas del grafo (y sus pesos), y una interfaz para ver las regiones que se formaron luego
+del algoritmo anterior. Se puede contar con un bot´on para lanzar la ejecuci´on del algoritmo.
+
+No es obligatorio que la interfaz incluya una visualizacion grafica o sobre un mapa del grafo.
+Como objetivos opcionales no obligatorios, se pueden contemplar los siguientes elementos:
+1. Mostrar estad´ısticas de las regiones generadas.
+2. Mostrar el grafo y las regiones sobre un mapa.
+3. Ejecutar el algoritmo para recalcular las regiones cada vez que se modifica el grafo
